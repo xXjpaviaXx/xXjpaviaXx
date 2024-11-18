@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xXjpaviaXx
 - 👀 I’m interested in improving workflows with automation and API's. 
-- 🌱 I’m currently learning SQL, Java, and Selenium. 
+- 🌱 I’m currently learning SQL, Java, and Python.
 - 📫 Message me here!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was on a Fortnite Ad :) 
