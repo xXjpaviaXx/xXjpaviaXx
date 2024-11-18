@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xXjpaviaXx
+- 👋 Hi, I’m Jonathan!
 - 👀 I’m interested in improving workflows with automation and API's. 
 - 🌱 I’m currently learning SQL, Java, and Python.
 - 📫 Message me here!
